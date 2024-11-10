@@ -1,0 +1,17 @@
+.para {
+  font-family: Doto, "Verdana", "DejaVu Sans", sans-serif;
+  background-color: hsl(360 100% 83%);
+}
+.para.third {
+  font-size: 24px;
+}
+#div1 {
+  font-size: 36px;
+  color: hsl(243 100% 48%);
+}
+
+#div2 {
+  font-weight: bold;
+  background-color: #a3ff9e;
+  font-size: 24px;
+}
