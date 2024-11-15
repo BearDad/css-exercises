@@ -7,10 +7,11 @@ Use flexbox rules to create this very common webpage header style. The benefit t
 narrow:
 ![narrow](./desired-outcome-narrow.png)
 
-wide: 
+wide:
 ![wide](./desired-outcome-wide.png)
 
 ### Self Check
+
 - There is space between all items and the edge of the header (specific px amount doesn't matter here).
 - Logo is centered vertically and horizontally.
 - list-items are horizontal, and are centered vertically inside the header.
@@ -18,3 +19,4 @@ wide:
 - Your solution does not use floats, inline-block, or absolute positioning.
 
 - Note: For this exercise, it's completely acceptable to not match the font-family.
+
